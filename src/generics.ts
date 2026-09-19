@@ -35,4 +35,4 @@ const res: ApiPromnise<{ flavor: string }>={
     data:{flavor:"masala"}
 }
 
-
+ 
